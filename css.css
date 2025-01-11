@@ -1,0 +1,19 @@
+label {
+    background-color: cyan;
+    padding: 2px 1px 2px 1px;
+}
+
+label.l1 {
+    background-color: red;
+}
+
+label.h {
+    background-color: aquamarine;
+}
+label.k {
+    background-color: orange;
+}
+
+label.e {
+    background-color: darkkhaki;
+}
